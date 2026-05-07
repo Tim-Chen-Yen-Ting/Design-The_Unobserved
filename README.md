@@ -22,15 +22,15 @@ A fantasy adventure novel exploring reality, destiny, and the power of choice.
 - [世界設計.md](./世界設計.md) — Worldbuilding, system mechanics, character profiles
 - [劇情分鏡.md](./劇情分鏡.md) — Detailed story outline and scene breakdown
 
-**English Version** 
-- Maybe one day, but not now
+**English Version**
+- Coming eventually (or maybe not)
 
 **繁體中文版本**（原創）
 - [世界設計.md](./世界設計.md) — 世界觀、系統設定、角色檔案
 - [劇情分鏡.md](./劇情分鏡.md) — 詳細故事大綱和場景分解
 
 **英文版本**
-- 之後再説，中文原稿都寫不完了🫠🫠
+- 有朝一日系列...再等我億下下
 
 ## Story Summary/故事簡介
 
@@ -70,4 +70,4 @@ Spot inconsistencies? Want to discuss the story? Feel free to open an issue!
 
 ---
 
-© 2025 timchensuper999. All rights reserved.
+© 2026 timchensuper999. All rights reserved.
