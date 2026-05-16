@@ -6,14 +6,18 @@
 
 A fantasy adventure novel exploring reality, destiny, and the power of choice.
 
-- **Estimated Length:** very very long (800,000+ words, 5+ volumes)
+- **Estimated Length:** very very long (let's say 1,500,000+ words, 5+ volumes for now)
 - **Status:** Writing in progress (started Apr 2026)
+- **Storyboard Progress:** End of Academy Arc
+- **Prose Progress:** Haven't Started Yet ：）
 - **Story Language:** Traditional Chinese (maybe English too...one day)
 
 一部奇幻冒險小說，探討現實、命運與選擇的力量
 
-- **預計長度：** 很長很長（800,000+字, 5+ 冊）
+- **預計長度：** 很長很長（先初估 1,500,000+字, 5+ 冊吧，不夠再説）
 - **進度：** 寫作中（2026 年 4 月開始）
+- **大綱進度：** 學院篇結束
+- **文本進度：** 還沒開始 ：）
 - **故事語言：** 繁體中文 (未來可能會翻譯成英文...未來可期系列)
 
 ## Files/檔案
@@ -34,9 +38,11 @@ A fantasy adventure novel exploring reality, destiny, and the power of choice.
 
 ## Story Summary/故事簡介
 
-In a world where everyone awakens exactly one abstract concept as their power, strength comes not from rank or system, but from depth of understanding. The Unobserved follows five people bound together by politics, trauma, and the particular kind of trust that only survives being repeatedly betrayed. At its center: a boy who sealed away his capacity to feel the day he watched his father die, and a girl who has always been able to sense every possibility—including all the ones she's killing by choosing.
+In a world where everyone awakens exactly one abstract concept as their power, strength comes not from rank or system, but from depth of understanding. Every skill you throw at a living opponent gets absorbed by their energy field and converted into pure hallucination — their body stays untouched until you break their mind first. In this world of dirty tactics and trash talking, we witness five people bound together by politics, trauma, and the particular kind of trust that only survives being repeatedly betrayed. At its center: a boy who sealed away his capacity to feel the day he watched his father die, and a girl who has always been able to sense every possibility — including all the ones she's killing by making decisions.
 
-在這個世界裡，每個人都會覺醒正好一種能力：一種可以用精神力感知並操縱的現實抽象原理。沒有等級，沒有職業，沒有階層。力量唯一的來源是理解的深度。《未然？已然。》講述五個人在三方政治角力的夾縫中相互依存、相互出賣、又相互守護的故事。核心是兩條交織的主線：一個關於棋盤的故事，以及一個關於兩個人從小一起在棋盤上活下去的故事。
+在這個世界裡，每個人一生都會覺醒一個抽象的本源法則。這裡沒有系統、沒有等級，力量的唯一天花板，來自你對世界本質的理解與信念。當高階使用者的技能擊中你，你的能量場會將其判定為「精神妄想」——也就是說，除非你能在精神領域彻底擊碎對手的信念，否則對方的物理肉身毫髮無傷。在這個拼智商、玩髒套路、垃圾話滿天飛的心理戰世界裡，誕生了兩個釋源者學院的歷史級異類和他們的傳奇：一個關於棋盤的故事，以及一個關於兩個人從小一起在棋盤上活下去的故事。隨著派系內鬥、高層背刺、跨神話體系的終極威脅接踵而至、世界標準化的鐵蹄正試圖抹殺所有個性的變異，情感平坦的魔王將扯斷理性的韁繩，而拒絕讓可能性坍縮的少女，也將背負起因果的重量。
+- 「霆，如果我的術式代價是在夢裡經歷無數次失敗與死亡，你還會握住我的手嗎？」
+- 「然，妳不是枷鎖。妳是我還記得自己是『人類』的，唯一的錨點。」
 
 ## Creation Process/創作流程
 
@@ -61,6 +67,12 @@ The storyboard is detailed enough that AI's job is simply filling in descriptive
 - 敘事擴展和文句潤飾：AI 輔助，人工審核
 
 分鏡本身已足夠詳細，AI 的工作只是在預設節點間填充描述性細節。所有重要創意決定都由人工做出。
+
+## Update Schedule/更新頻率
+
+Updates depend entirely on the author's mood and free time — no fixed schedule, no promises. That said, there won't be a Togashi-length hiatus, nor will Kurapika get stuck on the goddamn boat for ten years (I hope)
+
+更新不定期，全看作者心情與空閒程度。不保證頻率，但不會像富堅老賊一樣讓庫拉皮卡卡在船上卡十年的。（笑）
 
 ## Feedback Welcome/歡迎反饋
 
