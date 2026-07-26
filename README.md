@@ -1,16 +1,8 @@
-# The Unobserved / 《未然？已然。》
+# 《未然？已然。》/ The Unobserved
 
 ---
 
-## Overview/概述
-
-A fantasy adventure novel exploring reality, destiny, and the power of choice.
-
-- **Estimated Length:** very very long (let's say 800,000+ words, 5+ volumes for now)
-- **Status:** Writing in progress (started Apr 2026)
-- **Storyboard Progress:** End of Academy Arc
-- **Prose Progress:** Haven't Started Yet ：）
-- **Story Language:** Traditional Chinese (maybe English too...one day)
+## 概述/Overview
 
 一部奇幻冒險小說，探討現實、命運與選擇的力量
 
@@ -20,47 +12,61 @@ A fantasy adventure novel exploring reality, destiny, and the power of choice.
 - **文本進度：** 還沒開始 ：）
 - **故事語言：** 繁體中文 (未來可能會翻譯成英文...未來可期系列)
 
-## Files/檔案
+A fantasy adventure novel exploring reality, destiny, and the power of choice.
 
-**Traditional Chinese Version** (Original) 
-- [世界設計.md](./世界設計.md) — Worldbuilding, system mechanics, character profiles
-- [劇情分鏡/](./劇情分鏡/00_總目錄.md) — Detailed story outline and scene breakdown, split by arc
+- **Estimated Length:** very very long (let's say 800,000+ words, 5+ volumes for now)
+- **Status:** Writing in progress (started Apr 2026)
+- **Storyboard Progress:** End of Academy Arc
+- **Prose Progress:** Haven't Started Yet ：）
+- **Story Language:** Traditional Chinese (maybe English too...one day)
 
-**English Version**
-- Coming eventually (or maybe not)
+## 檔案/Files
 
 **繁體中文版本**（原創）
-- [世界設計.md](./世界設計.md) — 世界觀、系統設定、角色檔案
-- [劇情分鏡/](./劇情分鏡/00_總目錄.md) — 詳細故事大綱和場景分解，依篇章拆分
+- [世界設計.md](./世界設計.md) — 索引與劇情大綱（synopsis）
+- [世界設計/](./世界設計/) — 世界機制設定
+- [角色/](./角色/) — 角色檔案
+- [勢力/](./勢力/) — 三大勢力
+- [地點/](./地點/) — 地點設定
+- [劇情分鏡/](./劇情分鏡/00_總目錄.md) — 分鏡（storyboard）
+- [決策/](./決策/) — 設計決策記錄
+- [TODO.md](./TODO.md) — 待辦與未定案項目
 
 **英文版本**
 - 有朝一日系列...再等我億下下
 
-## Story Summary/故事簡介
- 
-In a world where power comes not from rank or system, but from the depth and strength of one's own understanding of reality — those whose worldview crystallizes sharply enough awaken an abstract concept as their power; most others never do. Every skill you throw at a living opponent gets absorbed by their energy field and converted into pure hallucination — their body stays untouched until you break their mind first. In this world of dirty tactics and trash talking, we witness five people bound together by politics, trauma, and the particular kind of trust that only survives being repeatedly betrayed. At its center: a boy who sealed away his capacity to feel the day he watched his father die, and a girl who has always been able to sense every possibility — including all the ones she's killing by making decisions.
- 
+**Traditional Chinese Version** (Original) 
+- [世界設計.md](./世界設計.md) — Index and story outline (synopsis)
+- [世界設計/](./世界設計/) — Worldbuilding & system mechanics
+- [角色/](./角色/) — Character profiles
+- [勢力/](./勢力/) — The three major factions
+- [地點/](./地點/) — Location settings
+- [劇情分鏡/](./劇情分鏡/00_總目錄.md) — Storyboards
+- [決策/](./決策/) — Design decision records
+- [TODO.md](./TODO.md) — To-dos and undecided items
+
+**English Version**
+- Coming eventually (or maybe not)
+
+## 故事簡介/Story Summary
+
 在這個世界裡，力量的唯一天花板，來自你對世界本質的理解與信念的強度——唯有在成長過程中形成足夠銳利、獨特世界觀者，才會覺醒一個抽象的本源法則，多數人終其一生都不會。這裡沒有系統、沒有等級。當高階使用者的技能擊中你，你的能量場會將其判定為「精神妄想」——也就是說，除非你能在精神領域彻底擊碎對手的信念，否則對方的物理肉身毫髮無傷。在這個拼智商、玩髒套路、垃圾話滿天飛的心理戰世界裡，誕生了兩個釋源者學院的歷史級異類和他們的傳奇：一個關於棋盤的故事，以及一個關於兩個人從小一起在棋盤上活下去的故事。隨著派系內鬥、高層背刺、跨神話體系的終極威脅接踵而至、世界標準化的鐵蹄正試圖抹殺所有個性的變異，情感平坦的魔王將扯斷理性的韁繩，而拒絕讓可能性坍縮的少女，也將背負起因果的重量。
 - 「霆，如果我的術式代價是在夢裡經歷無數次失敗與死亡，你還會握住我的手嗎？」
 - 「然，妳不是枷鎖。妳是我還記得自己是『人類』的，唯一的錨點。」
 
-## Creation Process/創作流程
+In a world where power comes not from rank or system, but from the depth and strength of one's own understanding of reality — those whose worldview crystallizes sharply enough awaken an abstract concept as their power; most others never do. Every skill you throw at a living opponent gets absorbed by their energy field and converted into pure hallucination — their body stays untouched until you break their mind first. In this world of dirty tactics and trash talking, we witness five people bound together by politics, trauma, and the particular kind of trust that only survives being repeatedly betrayed. At its center: a boy who sealed away his capacity to feel the day he watched his father die, and a girl who has always been able to sense every possibility — including all the ones she's killing by making decisions.
 
-- Detailed storyboard creation (human)
-- AI-assisted narrative expansion  
-- Human review and revision
+## 創作流程/Creation Process
 
 - 詳細分鏡創作（人工）
 - AI 輔助敘事擴展
 - 人工審核與修改
 
-## About AI Usage/關於 AI 使用
+- Detailed storyboard creation (human)
+- AI-assisted narrative expansion  
+- Human review and revision
 
-- Storyboard, worldbuilding, character design: 100% human-created
-- Plot structure and scene outlining: human-created  
-- Narrative expansion & prose: AI-assisted with human review
-
-The storyboard is detailed enough that AI's job is simply filling in descriptive detail between pre-planned beats. All major creative decisions are human-made.
+## 關於 AI 使用/About AI Usage
 
 - 分鏡、世界設定、角色設計：100% 人工創造
 - 情節框架和場景設計：人工創造  
@@ -68,17 +74,23 @@ The storyboard is detailed enough that AI's job is simply filling in descriptive
 
 分鏡本身已足夠詳細，AI 的工作只是在預設節點間填充描述性細節。所有重要創意決定都由人工做出。
 
-## Update Schedule/更新頻率
+- Storyboard, worldbuilding, character design: 100% human-created
+- Plot structure and scene outlining: human-created  
+- Narrative expansion & prose: AI-assisted with human review
 
-Updates depend entirely on the author's mood and free time — no fixed schedule, no promises. That said, there won't be a Togashi-length hiatus, nor will Kurapika get stuck on the goddamn boat for ten years (I hope)
+The storyboard is detailed enough that AI's job is simply filling in descriptive detail between pre-planned beats. All major creative decisions are human-made.
+
+## 更新頻率/Update Schedule
 
 更新不定期，全看作者心情與空閒程度。不保證頻率，但不會像富堅老賊一樣讓庫拉皮卡卡在船上卡十年的。（笑）
 
-## Feedback Welcome/歡迎反饋
+Updates depend entirely on the author's mood and free time — no fixed schedule, no promises. That said, there won't be a Togashi-length hiatus, nor will Kurapika get stuck on the goddamn boat for ten years (I hope)
 
-Spot inconsistencies? Want to discuss the story? Feel free to open an issue!
+## 歡迎反饋/Feedback Welcome
 
 發現邏輯不通、設定矛盾或想討論故事？歡迎開 Issue！
+
+Spot inconsistencies? Want to discuss the story? Feel free to open an issue!
 
 ---
 
