@@ -82,4 +82,4 @@ Spot inconsistencies? Want to discuss the story? Feel free to open an issue!
 
 ---
 
-© 2026 timchensuper999. All rights reserved.
+© 2026 tim-chen-yen-ting. All rights reserved.
