@@ -23,12 +23,12 @@ A fantasy adventure novel exploring reality, destiny, and the power of choice.
 ## 檔案/Files
 
 **繁體中文版本**（原創）
-- [世界設計.md](./世界設計.md) — 索引與劇情大綱（synopsis）
+- [世界設計.md](./世界設計.md) — 索引與入口（10 秒骨架）
 - [世界設計/](./世界設計/) — 世界機制設定
 - [角色/](./角色/) — 角色檔案
 - [勢力/](./勢力/) — 三大勢力
 - [地點/](./地點/) — 地點設定
-- [劇情分鏡/](./劇情分鏡/00_總目錄.md) — 分鏡（storyboard）
+- [劇情分鏡/](./劇情分鏡/00_總目錄.md) — 劇情大綱（synopsis）與分鏡（storyboard）
 - [決策/](./決策/) — 設計決策記錄
 - [TODO.md](./TODO.md) — 待辦與未定案項目
 
@@ -36,12 +36,12 @@ A fantasy adventure novel exploring reality, destiny, and the power of choice.
 - 有朝一日系列...再等我億下下
 
 **Traditional Chinese Version** (Original) 
-- [世界設計.md](./世界設計.md) — Index and story outline (synopsis)
+- [世界設計.md](./世界設計.md) — Index & entry point (10-second skeleton)
 - [世界設計/](./世界設計/) — Worldbuilding & system mechanics
 - [角色/](./角色/) — Character profiles
 - [勢力/](./勢力/) — The three major factions
 - [地點/](./地點/) — Location settings
-- [劇情分鏡/](./劇情分鏡/00_總目錄.md) — Storyboards
+- [劇情分鏡/](./劇情分鏡/00_總目錄.md) — Story synopsis & storyboards
 - [決策/](./決策/) — Design decision records
 - [TODO.md](./TODO.md) — To-dos and undecided items
 
