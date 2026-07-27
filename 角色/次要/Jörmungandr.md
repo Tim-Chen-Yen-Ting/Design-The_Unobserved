@@ -1,5 +1,7 @@
 # Jörmungandr
 
+> STATUS: 骨架已建，細節待撰寫（諸神黃昏篇最終boss、外傳主角之一）
+
 **劇情功能**：最終Boss。
 
 **本源**：Boundary

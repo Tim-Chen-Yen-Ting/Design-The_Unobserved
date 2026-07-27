@@ -29,7 +29,6 @@ A fantasy adventure novel exploring reality, destiny, and the power of choice.
 - [勢力/](./勢力/) — 三大勢力
 - [地點/](./地點/) — 地點設定
 - [劇情分鏡/](./劇情分鏡/00_總目錄.md) — 劇情大綱（synopsis）與分鏡（storyboard）
-- [決策/](./決策/) — 設計決策記錄
 - [TODO.md](./TODO.md) — 待辦與未定案項目
 
 **英文版本**
@@ -42,7 +41,6 @@ A fantasy adventure novel exploring reality, destiny, and the power of choice.
 - [勢力/](./勢力/) — The three major factions
 - [地點/](./地點/) — Location settings
 - [劇情分鏡/](./劇情分鏡/00_總目錄.md) — Story synopsis & storyboards
-- [決策/](./決策/) — Design decision records
 - [TODO.md](./TODO.md) — To-dos and undecided items
 
 **English Version**
